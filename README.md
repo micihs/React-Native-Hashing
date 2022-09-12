@@ -7,4 +7,4 @@ A Custom Pure Javascript Hashing library to implement SHA1, SHA2, SHA3, md5, Hma
 
 # Hmac
 
-#Ripemd160
+# Ripemd160
