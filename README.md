@@ -5,7 +5,7 @@ A Custom Pure Javascript Hashing library to implement SHA1, SHA2, SHA3, md5 and 
 - npm (node.js package manager)
 
 ```bash
-npm install rn
+npm install RN-hashing
 ```
 ### Usage
  Each Hahing algorithm is designed to operate on the same function call model. HashingFunction(stringData);
@@ -23,7 +23,6 @@ Each hashing Function call emulates the template above.
 
 # list of Modules / Hashing Algorithms.
 ---
-
 - ```RN-hashing/sha1```
 - ```RN-hashing/sha224```
 - ```RN-hashing/sha256```
@@ -32,7 +31,4 @@ Each hashing Function call emulates the template above.
 - ```RN-hashing/md5```
 - ```RN-hashing/Ripemd160```
 - ```RN-hashing/md5```
-
 ---
-
-
